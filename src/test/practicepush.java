@@ -1,5 +1,8 @@
 public class practicepush {
-    public void methodjacky() {
+    WebDriver driver;
+
+} public void methodjacky() {
+        WebDriverManager.ChromeDriver
 
     }
     public void methodMel () {
